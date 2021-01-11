@@ -41,4 +41,5 @@ flutter:
     - family: PottaOne
       fonts:
         - asset: fonts/PottaOne-Regular.ttf
-
+  assets:
+      - assets/flutter.jpg
